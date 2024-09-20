@@ -1,7 +1,7 @@
 # 从零开始的 JSON 库教程（一）：启程
 
-* Milo Yip
-* 2016/9/15
+* zcy
+* 2024/9/20
 
 本文是[《从零开始的 JSON 库教程》](https://zhuanlan.zhihu.com/json-tutorial)的第一个单元。教程练习源代码位于 [json-tutorial](https://github.com/miloyip/json-tutorial)。
 
